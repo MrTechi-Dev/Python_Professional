@@ -1,0 +1,92 @@
+Title description: The Economist tracks excess deaths
+	 Link: https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker
+
+Title description: Italian Courts Find Open Source Software Terms Enforceable
+	 Link: http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable/
+
+Title description: Ask HN: How did my LastPass master password get leaked?
+	 Link: item?id=29705957
+
+Title description: New muscle layer discovered on the jaw
+	 Link: https://www.unibas.ch/en/News-Events/News/Uni-Research/New-muscle-layer-discovered-on-the-jaw.html
+
+Title description: Decoding James Webb Space Telescope
+	 Link: https://destevez.net/2021/12/decoding-james-webb-space-telescope/
+
+Title description: Recording 660FPS Video on a $6 Raspberry Pi Camera (2019)
+	 Link: https://blog.robertelder.org/recording-660-fps-on-raspberry-pi-camera/
+
+Title description: Compose.ai (YC W21) Is Hiring Engineers and Designers
+	 Link: https://composeai.notion.site/Work-at-Compose-AI-f9259f8867b74b0ea8431e872ee9908f
+
+Title description: Maybe we could tone down the JavaScript (2016)
+	 Link: https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/
+
+Title description: Five takeaways from looking for a new senior role in tech
+	 Link: https://philcalcado.com/2021/12/20/job_hunt.html
+
+Title description: A Review of the Zig Programming Language (Using Advent of Code 2021)
+	 Link: https://www.duskborn.com/posts/2021-aoc-zig/
+
+Title description: Speedcabling
+	 Link: http://schkolne.com/speedcabling/rules.html
+
+Title description: Rack 2 (Virtual Eurorack)
+	 Link: https://github.com/VCVRack/Rack
+
+Title description: Quick and dirty way to rip an eBook from Android
+	 Link: https://shkspr.mobi/blog/2021/12/quick-and-dirty-way-to-rip-an-ebook-from-android/
+
+Title description: The Best Things and Stuff of 2021
+	 Link: http://blog.fogus.me/2021/12/27/the-best-things-and-stuff-of-2021/
+
+Title description: E.O. Wilson has died
+	 Link: https://www.reuters.com/lifestyle/science/obituary-modern-day-darwin-eo-wilson-dies-92-2021-12-27/
+
+Title description: The Swiss wanderer who found the soul of 1950s Japan
+	 Link: https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof
+
+Title description: immudb – world’s fastest immutable database, built on a zero trust model
+	 Link: https://github.com/codenotary/immudb
+
+Title description: Show HN: Drovp – Convenient UI for any drag and drop operations
+	 Link: https://drovp.app
+
+Title description: Read J.D. Salinger’s first short story to feature Holden Caufield
+	 Link: https://lithub.com/read-j-d-salingers-first-short-story-to-feature-holden-caufield/
+
+Title description: How to Open a Door (1979) [video]
+	 Link: https://www.youtube.com/watch?v=Wof0xPUmW38
+
+Title description: Windows 2000 Modernization Guide
+	 Link: https://w2k.phreaknet.org/guide
+
+Title description: Luerl – An Implementation of Lua in Erlang
+	 Link: https://github.com/rvirding/luerl
+
+Title description: Practical Transformer Winding (2010)
+	 Link: https://ludens.cl/Electron/trafos/trafos.html
+
+Title description: Ask HN: What is your spiritual practice?
+	 Link: item?id=29700445
+
+Title description: Regression with the C64
+	 Link: https://tensorthings.com/2021/12/27/regression-with-the-c64/
+
+Title description: Metrics-driven product development is hard
+	 Link: https://blog.doubleloop.app/metrics-driven-product-development-is-hard/
+
+Title description: A stochastic method to generate the Sierpinski triangle
+	 Link: https://github.com/ajnirp/stochastic_sierpinski
+
+Title description: rC3 Fahrplan – The Chaos Communication Congress 2021 schedule
+	 Link: https://rc3.world/2021/public_fahrplan#_
+
+Title description: "Widevine Dump":Leaked Code Downloads HD Video from Disney+, Amazon, and Netflix
+	 Link: https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/
+
+Title description: Plant Root System Drawings
+	 Link: https://images.wur.nl/digital/collection/coll13/search
+
+
+		The emoji of today is: 🐍
